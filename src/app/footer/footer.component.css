@@ -1,0 +1,8 @@
+.footer{
+    color: red;
+    background: aquamarine;
+    position: absolute;
+    padding: 5px;
+    width: 99%;
+    bottom: 0;
+}

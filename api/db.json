@@ -1,0 +1,48 @@
+{
+  "posts": [{
+      "id": 1,
+      "title": "json-server",
+      "author": "typicodeeees"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicodeeeees"
+    }
+  ],
+  "comments": [{
+    "id": 1,
+    "body": "some commentsssss",
+    "postId": 1
+  }],
+  "friends": [{
+      "id": 0,
+      "name": "Samantha Barnett"
+    },
+    {
+      "id": 1,
+      "name": "Owens Mueller"
+    },
+    {
+      "id": 2,
+      "name": "Wilda Klein"
+    },
+    {
+      "id": 3,
+      "name": "Primus Rein"
+    },
+    {
+      "id": 4,
+      "name": "Bjarni Räshit"
+    },
+    {
+      "id": 5,
+      "name": "Emanuil Reinald"
+    },
+    {
+      "id": 6,
+      "name": "Alex Mason"
+
+    }
+  ]
+}
